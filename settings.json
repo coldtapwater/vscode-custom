@@ -1,0 +1,18 @@
+{
+    "files.autoSave": "afterDelay",
+    "editor.wordWrap": "wordWrapColumn",
+    "editor.fontSize": 14,
+    "workbench.colorTheme": "Default High Contrast",
+    "[css]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "workbench.trustedDomains.promptInTrustedWorkspace": true,
+    "workbench.startupEditor": "none",
+    "vscode_custom_css.imports": ["file:///Users/jace/vscode-custom/custom.css", "file:///Users/jace/vscode-custom/custom.js"],
+
+    "editor.fontFamily": "Menlo, JetBrains Mono, Fira Code",
+    "editor.suggestFontSize": 16,
+    "editor.suggestLineHeight": 30,
+    "terminal.integrated.lineHeight": 1.5,
+    "terminal.integrated.fontSize": 16,
+}
